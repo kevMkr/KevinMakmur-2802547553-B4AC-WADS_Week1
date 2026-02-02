@@ -20,3 +20,11 @@ High Performance: FastAPI offers remarkable performance thanks to its asynchrono
 Automatic Documentation: The documentation is generated automatically, which reduces development time and increases API comprehension.
 Pythonic: FastAPI's syntax and methodology are understandable to developers who are familiar with Python.
 Type Safety: Type hinting makes code more readable and lowers the risk of runtime problems.
+
+Drawbacks of FastAPI
+
+Disadvantages of FastAPI
+
+While FastAPI is user-friendly for beginners, grasping its advanced features could necessitate some learning.
+Young Ecosystem: FastAPI's ecosystem is still developing in comparison to more established frameworks like Django.
+Limited Project Templates: Compared to certain other frameworks, FastAPI provides fewer project templates and conventions.
