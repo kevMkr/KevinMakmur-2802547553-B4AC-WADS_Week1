@@ -28,3 +28,19 @@ Disadvantages of FastAPI
 While FastAPI is user-friendly for beginners, grasping its advanced features could necessitate some learning.
 Young Ecosystem: FastAPI's ecosystem is still developing in comparison to more established frameworks like Django.
 Limited Project Templates: Compared to certain other frameworks, FastAPI provides fewer project templates and conventions.
+
+Install Requirements
+First, We will install all the requirements to run Fast API applications. Like any Python project, we will create a virtual environment where we will install all the dependencies and libraries for the project. The reason for using a virtual environment is Python is not very good at resolving dependency issues. Installing packages to the operating system’s global python environment might conflict with system-relevant packages. So, we create virtual environments.
+
+We can do that by running simple scripts.
+
+python -m venv fastapi
+We created a virtual environment named ‘fastapi’ in the current directory. Then we will launch it by typing the following code.
+
+fastapi/Scripts/activate
+It will activate our virtual environment. The next step is to install the required libraries.
+
+Install Fast API with pip command. Open up your shell and type in the following code.
+
+python -m pip install fastapi uvicorn[standard]
+So, we installed the fastapi and uvicorn server in our virtual environment. We will see what it does in a few moments.
