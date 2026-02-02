@@ -4,6 +4,13 @@ Student ID: 2802547553
 
 Class: B4AC
 
+What are APIs?
+
+Imagine you went to a restaurant with your partner for a dinner date, and you want to place an order. How would you do it? Call the waiter and place an order. Now, what happens at the backend? The waiter goes to the chef and gives the order details. When the dishes are ready, he brings them to you.
+
+Well, you just learned the way APIs typically work. In technical terms, the API is an intermediary between two software components to communicate with each other. API stands for Application Programming Interface. An interface between two entities.
+
+We just learned how APIs work (superficially). So, what does it mean to have an API for a particular service? For example, Accuweather API for weather data. So, think of it as the waiter at our restaurant. What he does is he lets you access the dishes available in that restaurant. Similarly, an API lets the clients access particular resources of the backend or server. With Twitter API, you can pull tweet streams from a hashtag, follow, unfollow people, bookmark tweets, etc.
 
 Article about FastAPI:
 
@@ -38,3 +45,12 @@ Organize Code: Lay out your project logically by segmenting it into separate mod
 Implement secure techniques for authentication and authorization to safeguard your API.
 Middleware: Middleware can be used to handle universal issues, such as logging, error handling, and request/response modification.
 Testing: Create thorough unit and integration tests to make sure your API is reliable.
+Uses of FastAPI
+
+FastAPI is flexible and suitable for a range of web development tasks, including:
+
+RESTful APIs: FastAPI is a master at developing RESTful APIs for web and mobile apps.
+Microservices: Due to its speed and async features, it is appropriate for constructing microservices.
+Real-time Applications:  FastAPI is capable of handling real-time applications, such as online gaming and chat programs.
+Interactive data dashboards and reporting tools can be made utilizing the FastAPI.
+For making IoT APIs and directing IoT gadgets, FastAPI is a solid choice.
