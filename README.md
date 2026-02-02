@@ -4,6 +4,13 @@ Student ID: 2802547553
 
 Class: B4AC
 
+What are APIs?
+
+Imagine you went to a restaurant with your partner for a dinner date, and you want to place an order. How would you do it? Call the waiter and place an order. Now, what happens at the backend? The waiter goes to the chef and gives the order details. When the dishes are ready, he brings them to you.
+
+Well, you just learned the way APIs typically work. In technical terms, the API is an intermediary between two software components to communicate with each other. API stands for Application Programming Interface. An interface between two entities.
+
+We just learned how APIs work (superficially). So, what does it mean to have an API for a particular service? For example, Accuweather API for weather data. So, think of it as the waiter at our restaurant. What he does is he lets you access the dishes available in that restaurant. Similarly, an API lets the clients access particular resources of the backend or server. With Twitter API, you can pull tweet streams from a hashtag, follow, unfollow people, bookmark tweets, etc.
 
 Article about FastAPI:
 
