@@ -12,3 +12,11 @@ FastAPI is a state-of-the-art web framework for making Python APIs that is lofty
 What Is FastAPI?
 
 FastAPI is a state-of-the-art Python web system made to make it more straightforward to make superior execution APIs.Because of its speed, type hinting support, automatic documentation creation, and asynchronous features, it was developed by Sebastián Ramrez and has grown in popularity. FastAPI is a strong tool for creating reliable APIs with little code since it makes use of Python 3.7+ capabilities, such as type annotations.
+
+Benefits of FastAPI
+
+Advantages of FastAPI
+High Performance: FastAPI offers remarkable performance thanks to its asynchronous features and effective request management.
+Automatic Documentation: The documentation is generated automatically, which reduces development time and increases API comprehension.
+Pythonic: FastAPI's syntax and methodology are understandable to developers who are familiar with Python.
+Type Safety: Type hinting makes code more readable and lowers the risk of runtime problems.
